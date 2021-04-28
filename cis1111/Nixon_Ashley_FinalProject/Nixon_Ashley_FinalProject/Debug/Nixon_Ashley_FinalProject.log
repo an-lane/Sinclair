@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Nixon_Ashley_FinalProject.cpp
+c:\users\anich\documents\cis1111\nixon_ashley_finalproject\nixon_ashley_finalproject\nixon_ashley_finalproject.cpp(46): warning C4101: 'teamBTotal': unreferenced local variable
+c:\users\anich\documents\cis1111\nixon_ashley_finalproject\nixon_ashley_finalproject\nixon_ashley_finalproject.cpp(46): warning C4101: 'teamATotal': unreferenced local variable
+  Nixon_Ashley_FinalProject.vcxproj -> C:\Users\anich\Documents\cis1111\Nixon_Ashley_FinalProject\Debug\Nixon_Ashley_FinalProject.exe

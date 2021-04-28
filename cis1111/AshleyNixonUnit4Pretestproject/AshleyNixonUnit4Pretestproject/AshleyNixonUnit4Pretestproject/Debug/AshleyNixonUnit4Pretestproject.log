@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  AshleyNixonUnit4Pretestproject.cpp
+c:\users\anich\documents\cis1111\ashleynixonunit4pretestproject\ashleynixonunit4pretestproject\ashleynixonunit4pretestproject\ashleynixonunit4pretestproject.cpp(17): warning C4101: 'allAverage': unreferenced local variable
+c:\users\anich\documents\cis1111\ashleynixonunit4pretestproject\ashleynixonunit4pretestproject\ashleynixonunit4pretestproject\ashleynixonunit4pretestproject.cpp(17): warning C4101: 'highestRent': unreferenced local variable
+c:\users\anich\documents\cis1111\ashleynixonunit4pretestproject\ashleynixonunit4pretestproject\ashleynixonunit4pretestproject\ashleynixonunit4pretestproject.cpp(17): warning C4101: 'highRent': unreferenced local variable
+c:\users\anich\documents\cis1111\ashleynixonunit4pretestproject\ashleynixonunit4pretestproject\ashleynixonunit4pretestproject\ashleynixonunit4pretestproject.cpp(16): warning C4101: 'months': unreferenced local variable
+  AshleyNixonUnit4Pretestproject.vcxproj -> C:\Users\anich\Documents\cis1111\AshleyNixonUnit4Pretestproject\AshleyNixonUnit4Pretestproject\Debug\AshleyNixonUnit4Pretestproject.exe
