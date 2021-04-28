@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>CIS 2222|Ashley Nixon|Lab 4</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Css/StyleSheet.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Crimson+Text&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <form id="form1" runat="server">
+    <section id="container">
+        <!-- Header same for all pages -->
+        <header>
+            <h1>CIS 2222 | Project Lab 4</h1>
+            <h2>Ashley Nixon</h2>
+        </header>
+        <!-- Display current Date same for all pages -->
+        <section id="date">
+            <asp:Label ID="lblDate" runat="server" Text="Date" OnLoad="lblDate_Load"></asp:Label>
+        </section>
+        <!-- Navigation to 3 pages same for all pages -->
+        <section id="navigation">
+            <asp:Menu ID="NavigationMenu" runat="server" Orientation="Horizontal" RenderingMode="List" CssClass="Menu">
+                <Items>
+                    <asp:MenuItem NavigateUrl="~/Home.aspx" Text="Home" Value="Home"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/About.aspx" Text="About" Value="About"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/Projects.aspx" Text="Projects" Value="Projects"></asp:MenuItem>
+                </Items>
+            </asp:Menu>
+        </section>
+        <!-- Two-column layout -->
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-8" id="WorkArea">
+                    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+                </div>
+                <div class="col-lg-4">
+                    <img id="comp" src="Images/computer.jpg" alt="programming" />
+                </div>
+            </div>
+        </div>
+        <!-- footer -->
+        <footer>
+            <h4>&copy;Ashley Nixon|SinclairCC</h4>
+        </footer>
+
+        </section>
+        </form>
+</body>
+</html>

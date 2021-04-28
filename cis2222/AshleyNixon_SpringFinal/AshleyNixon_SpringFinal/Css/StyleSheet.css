@@ -1,0 +1,78 @@
+﻿body {
+    background-color: #e6aa68;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: #1d1a05;
+}
+#headContent {
+    background-size:cover;
+    background-image: url('../Images/illuminated-cityscape-against-blue-sky-at-night-316093.jpg');
+    text-align: right;
+    font-size: xx-large;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    margin-top: 0;
+    margin-left: 165px;
+    height: 80px;
+}
+#headContent a {
+    text-decoration: none;
+    color: white;
+}
+
+#mainContent {
+    margin-left: 170px;
+    padding: 10px;
+}
+
+.business {
+    width: 300px;
+    box-shadow: 5px 10px;
+    float:right;
+}
+
+#leftMenu {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    top:0px;
+    left:0px;
+    background-color:#4da1a9;
+    overflow-x:hidden;
+    padding-top:20px;
+    text-align:center;
+    clear:both;
+}
+
+#leftMenu a, #leftMenu li{
+    padding-top: 10px;
+    text-align:left;
+    text-decoration:none;
+    font-size:16px;
+    color:white;
+    display:block;
+}
+
+#leftMenu a:hover{
+    color:#1d1a05;
+}
+
+#footerContent {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    width:100%;
+    background-color:#f8c7cc;
+    color:#1d1a05;
+    text-align:center;
+    padding: 20px 20px 20px 0;
+    font-weight:bold;
+}
+#footerContent a {
+    text-decoration:none;
+    color:#1d1a05;
+}
+#footerContent a:hover {
+    font-weight:normal;
+}

@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Ashley Nixon Final Project</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Css/StyleSheet.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    
+        
+    
+        <div id="headContent">
+        <a href="Default.aspx">Business Exchange Network</a>
+            <br />
+              <asp:SiteMapPath ID="SiteMapPath1" runat="server" Font-Names="Verdana" Font-Size="Small" PathSeparator=" : " ForeColor="White">
+                  <CurrentNodeStyle ForeColor="White" />
+                  <NodeStyle Font-Bold="True" ForeColor="#7C6F57" />
+                  <PathSeparatorStyle Font-Bold="True" ForeColor="#5D7B9D" />
+                  <RootNodeStyle Font-Bold="True" ForeColor="#5D7B9D" />
+                </asp:SiteMapPath>
+            
+             
+        </div>
+        <div id="mainContent">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+        </div>
+        <div id="leftMenu">
+            <h2>Menu</h2> 
+            <ul>
+                <li><a href="Default.aspx">Home</a></li>
+                <li><a href="list.aspx">Business List</a></li>
+            </ul>
+        </div>
+        <div id="footerContent">
+            &copy; <%= DateTime.Now.Year %> <a href="my.sinclair.edu">Sinclair.edu</a> -- Ashley Nixon
+        </div>
+    
+        
+</body>
+</html>
