@@ -1,0 +1,29 @@
+Calorie Goal:2000 
+Adjusted: 1600
+
+Breakfast	fat	protein	carbs
+Egg, whole 	0.6 	5.3 	6.3
+Biscuit 	27.6 	6.9 	4.2
+Butter 		0 	3.8 	0
+Juice, orange 	13.4 	0.1 	0.8
+
+Snack 1		fat	protein	carbs
+Cheddar cheese 	0.2 	4.7 	3.5
+Almonds, whole 	3.6 	8.9 	3.7
+
+Lunch		fat	protein	carbs
+Chicken Breast 	0 	12.7 	48.7
+Sourdough bread 13 	0.8 	2.2
+Broccoli 	3.9 	0.3 	2.3
+water 		0 	0 	0
+
+Snack 2		fat	protein	carbs
+Dill pickle 	2.7 	0.1 	0.4
+Pretzels 	47.5 	2.1 	5.5
+
+Dinner		fat	protein	carbs
+Rib Eye Steak 	0 	19.9 	47.7
+Potato, white 	15.4 	0.1 	1.4
+Butter 		0 	3.8 	0
+Sour cream 	1.2 	6 	0.9
+Beer 		11.2 	0 	0.9

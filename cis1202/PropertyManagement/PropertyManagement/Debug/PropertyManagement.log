@@ -1,0 +1,3 @@
+﻿  PropertyManagement.cpp
+c:\users\anich\documents\cis1202\propertymanagement\propertymanagement\propertymanagement.cpp(104): warning C4101: 'sum': unreferenced local variable
+  PropertyManagement.vcxproj -> C:\Users\anich\Documents\cis1202\PropertyManagement\Debug\PropertyManagement.exe

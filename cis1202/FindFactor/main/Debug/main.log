@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\anich\documents\cis1202\findfactor\main\main.cpp(30): warning C4102: 'std': unreferenced label
+  c:\users\anich\documents\cis1202\findfactor\main\main.cpp(80): note: see reference to function template instantiation 'void getDivisors<__int64>(const T &,std::vector<__int64,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              T=__int64,
+              _Ty=__int64
+          ]
+  main.vcxproj -> C:\Users\anich\Documents\cis1202\FindFactor\Debug\main.exe

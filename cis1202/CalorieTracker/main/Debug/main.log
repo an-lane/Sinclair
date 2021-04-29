@@ -1,0 +1,14 @@
+﻿  func.cpp
+c:\users\anich\documents\cis1202\calorietracker\main\meal.h(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\anich\documents\cis1202\calorietracker\main\meal.h(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\anich\documents\cis1202\calorietracker\main\meal.h(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\anich\documents\cis1202\calorietracker\main\meal.h(98): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\anich\documents\cis1202\calorietracker\main\meal.h(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\anich\documents\cis1202\calorietracker\main\meal.h(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\anich\documents\cis1202\calorietracker\main\meal.h(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\anich\documents\cis1202\calorietracker\main\meal.h(98): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\anich\documents\cis1202\calorietracker\main\func.cpp(31): warning C4715: 'UserInputInt': not all control paths return a value
+  LINK : C:\Users\anich\Documents\cis1202\CalorieTracker\Debug\main.exe not found or not built by the last incremental link; performing full link
+  main.vcxproj -> C:\Users\anich\Documents\cis1202\CalorieTracker\Debug\main.exe

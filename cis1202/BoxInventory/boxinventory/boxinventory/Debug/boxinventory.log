@@ -1,0 +1,21 @@
+﻿  pch.cpp
+  boxinventory.cpp
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(93): error C2059: syntax error: 'for'
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(93): error C2143: syntax error: missing ')' before ';'
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(93): error C2143: syntax error: missing ';' before '<'
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(93): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(93): error C2143: syntax error: missing ';' before '++'
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(93): error C2086: 'int i': redefinition
+  c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(93): note: see declaration of 'i'
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(93): error C2059: syntax error: ')'
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(93): error C2143: syntax error: missing ';' before '{'
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(93): error C2447: '{': missing function header (old-style formal list?)
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(105): error C2143: syntax error: missing ';' before '<<'
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(105): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(106): error C2059: syntax error: '}'
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(106): error C2143: syntax error: missing ';' before '}'
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(109): error C2143: syntax error: missing ';' before '{'
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(109): error C2447: '{': missing function header (old-style formal list?)
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(135): error C3861: 'showMenu': identifier not found
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(155): error C3861: 'reorderReport': identifier not found
+c:\users\anich\documents\cis1202\boxinventory\boxinventory\boxinventory\boxinventory.cpp(160): error C3861: 'showMenu': identifier not found

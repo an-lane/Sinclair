@@ -1,0 +1,3 @@
+﻿  FundData.cpp
+c:\users\anich\documents\cis1202\funddata\funddata\funddata.cpp(162): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+  FundData.vcxproj -> C:\Users\anich\Documents\cis1202\FundData\Debug\FundData.exe

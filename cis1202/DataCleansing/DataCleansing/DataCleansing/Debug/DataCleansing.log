@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  DataCleansing.cpp
+c:\users\anich\documents\cis1202\datacleansing\datacleansing\datacleansing\datacleansing.cpp(70): error C2561: 'main': function must return a value
+  c:\users\anich\documents\cis1202\datacleansing\datacleansing\datacleansing\datacleansing.cpp(57): note: see declaration of 'main'
+c:\users\anich\documents\cis1202\datacleansing\datacleansing\datacleansing\datacleansing.cpp(73): error C2664: 'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::getline(_Elem *,std::streamsize,_Elem)': cannot convert argument 1 from 'std::istream' to '_Elem *'
+          with
+          [
+              _Elem=char
+          ]
+  c:\users\anich\documents\cis1202\datacleansing\datacleansing\datacleansing\datacleansing.cpp(73): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+c:\users\anich\documents\cis1202\datacleansing\datacleansing\datacleansing\datacleansing.cpp(87): error C2660: 'showFileDate': function does not take 2 arguments
+  c:\users\anich\documents\cis1202\datacleansing\datacleansing\datacleansing\datacleansing.cpp(47): note: see declaration of 'showFileDate'

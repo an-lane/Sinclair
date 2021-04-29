@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  BaseballStatistics.cpp
+c:\users\anich\documents\cis1202\baseballstatistics\baseballstatistics\baseballstatistics.cpp(22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\anich\documents\cis1202\baseballstatistics\baseballstatistics\baseballstatistics.cpp(65): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\anich\documents\cis1202\baseballstatistics\baseballstatistics\baseballstatistics.cpp(67): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\anich\documents\cis1202\baseballstatistics\baseballstatistics\baseballstatistics.cpp(69): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  BaseballStatistics.vcxproj -> C:\Users\anich\Documents\cis1202\BaseballStatistics\Debug\BaseballStatistics.exe

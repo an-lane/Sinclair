@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  pswdverifier.cpp
+c:\users\anich\documents\cis1202\pswdverifier\pswdverifier\pswdverifier.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\anich\documents\cis1202\pswdverifier\pswdverifier\pswdverifier.cpp(28): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\anich\documents\cis1202\pswdverifier\pswdverifier\pswdverifier.cpp(30): warning C4390: ';': empty controlled statement found; is this the intent?
+  pswdverifier.vcxproj -> C:\Users\anich\Documents\cis1202\pswdverifier\Debug\pswdverifier.exe
